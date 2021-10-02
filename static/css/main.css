@@ -1,0 +1,33 @@
+body{
+    margin: 0 ;
+    font-family: sans-serif;
+    background-color: saddlebrown;
+}
+div{
+    background-color: darkred;
+    color: white;
+    text-align: center;
+    width: auto;
+}
+table {
+  height: 50px;
+  width: 400px;
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+form{
+    text-align: center;
+    height: 50px;
+}
+
+td {
+  text-align: center;
+  border: 1px solid black;
+}
+th{
+    text-align: center;
+    border: 1px solid black;
+}
